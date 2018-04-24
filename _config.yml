@@ -1,11 +1,10 @@
 title: Writing in School and Technology 
 email: ericjgarcia@knights.ucf.edu
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- 
   This website is created to display the information I have found 
   during my research in Dr. Galbreath's ENC1102 class. 
-baseurl: "/final.project" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Eric_Garcia25
+baseurl: "/final.project" 
+url: "" 
 github_username:  ericgoat
 
 markdown: kramdown
