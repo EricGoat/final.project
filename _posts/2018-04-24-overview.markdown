@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Overview"
-date:   2018-04-24 17:39:39 -0400
+date:   2018-04-24 00:00:01 -0400
 categories: jekyll update
 ---
-> Through this past semester I researched the differences between the writing that is taught in school. 
+Primary education is a fundamental part of our society. Every child in America needs to be educated in order to produce citizens who will benefit the community. In other words, the reason why everyone had to go to school for the first eighteen years of their life is to prepare them to work and live in the real world. The question then arises; how good is our education system at preparing students for the real world? This question is being raised more and more as the world we live in changing so rapidly while education is stagnant. Technology is such a big part of everyone’s life. Having a smartphone is a much a necessity as having a wallet and keys. Every job requires people to use some form of modern technology to help them succeed. However, students across the country are told to turn off their cell phones, put away the computer, and to write their essays on pen and paper. 
+	
+I will be exploring the differences between the writing and literacies taught in the education system versus the writing and literacies that are needed in the real world. I will be specifically looking at technology industry as a professional community. This community is rapidly growing as technology advances. I will present my research on the differences between these two communities and point out the gaps between them. 

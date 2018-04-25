@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Results"
-date:   2018-04-24 17:39:39 -0400
+date:   2018-04-24 00:00:02 -0400
 categories: jekyll update
 ---
 ## Touchegg
@@ -17,31 +17,31 @@ The instruction manual I analyzed was that of the Bose QuietComfort 35 II wirele
 The interview showed that not much writing was needed for math and science courses.  Writing was reserved for the courses most people would associate with writing. These students experienced similar treatment of writing in college. There math and science courses generally do no require writing, but their English and humanities classes do. Two of the three students said that their high school writing prepared them for college. 
 
 Below is one of the interviews:
+<div style="background-color:#cccccc; text-align:left; vertical-align: middle; padding:20px 47px;">  
 
----
-1. What classes required writing in your high school career?
-I had to write mainly in my English and government classes. 
+1. What classes required writing in your high school career? <br/>
+I had to write mainly in my English and government classes. <br/><br/>
 
-2. What format did you most commonly write in for school?
-I wrote in standard MLA format essays. These essays were 
-mainly literary analysis for English or research papers for government.
+2. What format did you most commonly write in for school? <br/>
+I wrote in standard MLA format essays. These essays were <br/>
+mainly literary analysis for English or research papers for government. <br/><br/>
 
-3. Do you write in your free time? If so what do you write?
-No, I do not write in my free time. 
+3. Do you write in your free time? If so what do you write?<br/>
+No, I do not write in my free time. <br/><br/>
 
-4. What classes require you to write in college?
-I have only taken math and science courses so far in college. 
-None of those classes have required me to write. 
+4. What classes require you to write in college? <br/>
+I have only taken math and science courses so far in college. <br/> 
+None of those classes have required me to write. <br/><br/>
 
-5. What format did you most commonly write in for college?
-N/A
+5. What format did you most commonly write in for college? <br/>
+N/A <br/><br/>
 
-6. Are you commonly required to write for your major?
-The most writing I am required to do is comments in my code so 
-  my professor understands what it is doing. 
+6. Are you commonly required to write for your major? <br/>
+The most writing I am required to do is comments in my code so <br/>
+my professor understands what it is doing. <br/><br/>
 
-7. Do you feel that the writing taught to you in high school prepared 
-you for writing in college? Please explain your answer. 
-Yes, I do believe it helped me in college. It gave me the foundation 
+7. Do you feel that the writing taught to you in high school prepared <br/>
+you for writing in college? Please explain your answer. <br/>
+Yes, I do believe it helped me in college. It gave me the foundation <br/>
 to be able to be a better writer.
----
+</div>
