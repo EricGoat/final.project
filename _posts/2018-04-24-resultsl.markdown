@@ -16,16 +16,27 @@ Below is one of the interviews:
 {% highlight ruby %}
 1. What classes required writing in your high school career?
 I had to write mainly in my English and government classes. 
+
 2. What format did you most commonly write in for school?
-I wrote in standard MLA format essays. These essays were mainly literary analysis for English or research papers for government.
+I wrote in standard MLA format essays. These essays were 
+mainly literary analysis for English or research papers for government.
+
 3. Do you write in your free time? If so what do you write?
 No, I do not write in my free time. 
+
 4. What classes require you to write in college?
-I have only taken math and science courses so far in college. None of those classes have required me to write. 
+I have only taken math and science courses so far in college. 
+None of those classes have required me to write. 
+
 5. What format did you most commonly write in for college?
 N/A
+
 6. Are you commonly required to write for your major?
-The most writing I am required to do is comments in my code so my professor understands what it is doing. 
-7. Do you feel that the writing taught to you in high school prepared you for writing in college? Please explain your answer. 
-Yes, I do believe it helped me in college. It gave me the foundation to be able to be a better writer. .
+The most writing I am required to do is comments in my code so 
+  my professor understands what it is doing. 
+
+7. Do you feel that the writing taught to you in high school prepared 
+you for writing in college? Please explain your answer. 
+Yes, I do believe it helped me in college. It gave me the foundation 
+to be able to be a better writer.
 {% endhighlight %}
