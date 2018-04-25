@@ -4,17 +4,21 @@ title:  "Results"
 date:   2018-04-24 17:39:39 -0400
 categories: jekyll update
 ---
+## Touchegg
 I have analyzed readme files as a genre. The repository I am looking at first is Touchegg made by user JoseExposito. JoseExposito readme file consists of some of his contact information (email, twitter, etc.), a brief description, and video showing the software being used in action. JoseExposito then has a link to the wiki, also on GitHub, which has a plethora of information about the software. This includes an FAQ page, installation page, and a list of supported gestures.  
 
+## MailSniper
 I also looked at the readme file for the application MailSniper. This readme file starts with a brief description about the software. There is a link to a field manual with the basic instruction sets to run the application. Then readme file then goes on to the descriptions of all the different functions and tools of this application. Each function is in an easy copy and paste text field to be able to easily pull them out and use. Everything is well organized, and it is easy to find what you are looking for. 
 
+## Bose QuiteComfort
 The instruction manual I analyzed was that of the Bose QuietComfort 35 II wireless headphones. The thirty-two-page instruction manual is full of everything someone would need if they had a pair of these headphones. The manual starts with a diagram of the headphones and the contents of the package, so the user can visually see the buttons and parts that the manual is referencing. The manual then goes into instructions for how to set the headphones up with your phone and basic controls. All of the headphones features and settings are listed out, and the manual ends with how to maintain and take care of them. 
 
+## Interviews 
 The interview showed that not much writing was needed for math and science courses.  Writing was reserved for the courses most people would associate with writing. These students experienced similar treatment of writing in college. There math and science courses generally do no require writing, but their English and humanities classes do. Two of the three students said that their high school writing prepared them for college. 
 
 Below is one of the interviews:
-{% highlight ruby %}
-1. What classes required writing in your high school career?
+
+'1. What classes required writing in your high school career?
 I had to write mainly in my English and government classes. 
 
 2. What format did you most commonly write in for school?
@@ -38,5 +42,4 @@ The most writing I am required to do is comments in my code so
 7. Do you feel that the writing taught to you in high school prepared 
 you for writing in college? Please explain your answer. 
 Yes, I do believe it helped me in college. It gave me the foundation 
-to be able to be a better writer.
-{% endhighlight %}
+to be able to be a better writer.'
