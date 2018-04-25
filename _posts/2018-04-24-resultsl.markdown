@@ -18,7 +18,8 @@ The interview showed that not much writing was needed for math and science cours
 
 Below is one of the interviews:
 
-'1. What classes required writing in your high school career?
+---
+1. What classes required writing in your high school career?
 I had to write mainly in my English and government classes. 
 
 2. What format did you most commonly write in for school?
@@ -42,4 +43,5 @@ The most writing I am required to do is comments in my code so
 7. Do you feel that the writing taught to you in high school prepared 
 you for writing in college? Please explain your answer. 
 Yes, I do believe it helped me in college. It gave me the foundation 
-to be able to be a better writer.'
+to be able to be a better writer.
+---
